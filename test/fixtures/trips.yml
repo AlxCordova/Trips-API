@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: MyString
+  end: MyString
+  stops: MyText
+  datetime: 2019-09-27
+  seats: 1
+  price: 1
+  id_user: 1
+  id_raiting: 1
+  id_request: 1
+
+two:
+  start: MyString
+  end: MyString
+  stops: MyText
+  datetime: 2019-09-27
+  seats: 1
+  price: 1
+  id_user: 1
+  id_raiting: 1
+  id_request: 1
